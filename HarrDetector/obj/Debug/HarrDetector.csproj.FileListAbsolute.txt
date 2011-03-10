@@ -1,0 +1,10 @@
+D:\code\vision\CSharpFaceOff\HarrDetector\obj\Debug\ResolveAssemblyReference.cache
+D:\code\vision\CSharpFaceOff\HarrDetector\bin\Debug\HarrDetector.dll
+D:\code\vision\CSharpFaceOff\HarrDetector\bin\Debug\HarrDetector.pdb
+D:\code\vision\CSharpFaceOff\HarrDetector\bin\Debug\Emgu.CV.dll
+D:\code\vision\CSharpFaceOff\HarrDetector\bin\Debug\Emgu.Util.dll
+D:\code\vision\CSharpFaceOff\HarrDetector\obj\Debug\HarrDetector.dll
+D:\code\vision\CSharpFaceOff\HarrDetector\obj\Debug\HarrDetector.pdb
+D:\code\vision\CSharpFaceOff\HarrDetector\obj\Debug\HarrDetector.Properties.Resources.resources
+D:\code\vision\CSharpFaceOff\HarrDetector\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\code\vision\CSharpFaceOff\HarrDetector\obj\Debug\GenerateResource-ResGen.write.1.tlog
