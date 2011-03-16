@@ -16,7 +16,10 @@ namespace HaarDetector
         {
             get
             {
-                return m_FaceDetected[0][0].rect;
+                if (m_FaceDetected != null && m_FaceDetected.Length > 0)
+                    return m_FaceDetected[0][0].rect;
+                else
+                    return Rectangle.Empty;
             }
         }
 

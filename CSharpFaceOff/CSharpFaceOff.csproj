@@ -57,12 +57,24 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmFace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFace.Designer.cs">
+      <DependentUpon>frmFace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HaarEyeDetector.cs" />
+    <Compile Include="HaarNoseDetector.cs" />
     <Compile Include="HarrDetector.cs" />
+    <Compile Include="HarrMouthDetector.cs" />
     <Compile Include="IHaarDetector.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFace.resx">
+      <DependentUpon>frmFace.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

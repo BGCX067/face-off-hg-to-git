@@ -10,4 +10,15 @@ D:\code\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\GenerateResource-ResGen
 D:\code\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
 D:\code\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\CSharpFaceOff.exe
 D:\code\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\CSharpFaceOff.pdb
-D:\code\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\CSharpFaceOff.Form1.resources
+D:\code\vs2010\vision\CSharpFaceOff\CSharpFaceOff\bin\Debug\CSharpFaceOff.exe.config
+D:\code\vs2010\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\CSharpFaceOff.exe
+D:\code\vs2010\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\CSharpFaceOff.pdb
+D:\code\vs2010\vision\CSharpFaceOff\CSharpFaceOff\bin\Debug\CSharpFaceOff.exe
+D:\code\vs2010\vision\CSharpFaceOff\CSharpFaceOff\bin\Debug\CSharpFaceOff.pdb
+D:\code\vs2010\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\vs2010\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\CSharpFaceOff.Form1.resources
+D:\code\vs2010\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\CSharpFaceOff.Properties.Resources.resources
+D:\code\vs2010\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\code\vs2010\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\code\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\CSharpFaceOff.frmMain.resources
+D:\code\vision\CSharpFaceOff\CSharpFaceOff\obj\x86\Debug\CSharpFaceOff.frmFace.resources
